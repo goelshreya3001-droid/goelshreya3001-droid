@@ -20,7 +20,7 @@
   <a href="https://linkedin.com/in/YOUR-LINK">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://leetcode.com/YOUR-USERNAME">
+  <a href="https://leetcode.com/u/shreyag_21/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
@@ -61,15 +61,7 @@
 
 ## 🧠 LeetCode Stats  
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR-USERNAME?theme=dark&font=Fira%20Code" />
-</p>
-
----
-
-## 🔥 Featured Projects  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=goelshreya3001-droid&repo=FSD-2026&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=goelshreya3001-droid&repo=web-development&theme=tokyonight" />
+  <img src="https://leetcard.jacoblin.cool/shreyag_21?theme=dark&font=Fira%20Code" />
 </p>
 
 ---
