@@ -6,9 +6,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=200&section=header&text=Shreya%20Goel&fontSize=40&fontColor=ffffff" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=goelshreya3001-droid&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
 
 ---
 
