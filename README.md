@@ -79,7 +79,7 @@
 
 ## 💭 Favorite Quote
 
-> *"Keep learning. Keep building.
+> *"Keep learning. Keep building.Keep Growing"
 
 ---
 
