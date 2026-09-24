@@ -1,4 +1,4 @@
-# Hi, I'm Shreya Goel 👋
+# Hi, I'm Shreya Goel 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=8E2DE2&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Full+Stack+Developer;Cloud+Computing+Learner;Data+Structures+%26+Algorithms+Enthusiast" />
