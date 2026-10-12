@@ -12,7 +12,7 @@
 
 - 🎓 B.Tech Computer Science Engineering Student
 - 💻 Passionate about Software Development and Problem Solving
-- 🌱 Currently learning **MERN Stack**, **Backend Development**, and **AWS**
+- 🌱 Currently learning **MERN Stack**, **Backend Development**, and exploring **ML**
 - 🚀 Working towards becoming a Software Engineer
 - ✨ Always excited to learn new technologies and build real-world projects
 
@@ -44,6 +44,7 @@
 - NumPy
 - Pandas
 - Matplotlib
+- Seaborn
 
 ---
 
@@ -51,6 +52,7 @@
 
 - 🚀 Building Full Stack MERN Applications
 - ☁️ Exploring AWS Cloud Services
+- 🤖 Exploeing Machine Learning
 - 💡 Improving Backend Development Skills
 - 📚 Strengthening Data Structures & Algorithms
 
