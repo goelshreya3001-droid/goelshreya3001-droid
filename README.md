@@ -50,11 +50,11 @@
 
 ## 🌱 Currently Working On
 
-- 🚀 Building Full Stack MERN Applications
-- ☁️ Exploring AWS Cloud Services
-- 🤖 Exploeing Machine Learning
-- 💡 Improving Backend Development Skills
-- 📚 Strengthening Data Structures & Algorithms
+-  Building Full Stack MERN Applications
+-  Exploring AWS Cloud Services
+-  Exploeing Machine Learning
+-  Improving Backend Development Skills
+- Strengthening Data Structures & Algorithms
 
 ---
 
