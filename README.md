@@ -74,7 +74,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=goelshreya3001-droid&theme=tokyo-night" />
+<img src="https://ghchart.rshah.org/409ba5/goelshreya3001-droid" alt="GitHub Contribution Graph" />
 </p>
 
 ---
