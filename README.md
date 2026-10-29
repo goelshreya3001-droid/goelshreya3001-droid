@@ -69,16 +69,6 @@
   <img width="45%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=goelshreya3001-droid&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://ghchart.rshah.org/409ba5/goelshreya3001-droid" alt="GitHub Contribution Graph" />
-</p>
-
----
-
 ## 💭 Favorite Quote
 
 > *"Keep learning. Keep building.Keep Growing"
